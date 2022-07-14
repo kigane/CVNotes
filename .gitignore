@@ -1,5 +1,9 @@
 # Byte-compiled / optimized / DLL files
 data/output-images
+data/mri
+basic/data
+**/*.pth*
+**/*.tar*
 __pycache__/
 *.py[cod]
 *$py.class
